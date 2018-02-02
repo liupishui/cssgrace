@@ -1,0 +1,26 @@
+{
+    "name": "socket.temp",
+    "title": "socket.temp",
+    "description": "socket",
+    "version": "1.0.0",
+    "homepage": "https://github.com/liupishui/cssgrace",
+    "author": {
+        "name": "jingshuiyuan",
+        "url": "http://www.lpsjj.cn/blog/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/liupishui/cssgrace.git"
+    },
+    "keywords": [
+        "socket",
+        "socket.temp"
+    ],
+    "bugs": {
+        "url": "https://github.com/liupishui/cssgrace/issues"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
