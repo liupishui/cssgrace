@@ -19,8 +19,11 @@
     "bugs": {
         "url": "https://github.com/liupishui/cssgrace/issues"
     },
-    "dependencies": {
-    },
-    "devDependencies": {
-    }
+      "dependencies": {
+    "postcss": "^5.0.11",
+    "image-size": "^0.3.5"
+  },
+  "devDependencies": {
+    "tape": "^3.0.0"
+  }
 }
